@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 I'm Jenish
 
-<!--
-**jnshtech/jnshtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently working on improving my coding skills
+🌱 I’m currently learning Java Full Stack Development
+👨‍💻 I’m interested in backend development and web applications
+🤝 I’m looking to collaborate on beginner-friendly projects
+🤔 I’m looking for help with improving my problem-solving skills
+💬 Ask me about Java, HTML, CSS, and basic programming
+📫 How to reach me: jenishbs46gmail.com
+⚡ Fun fact: I enjoy learning new tech step by step and building simple projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ *“Consistency is the key to becoming a great developer.”*
+
